@@ -1,2 +1,2 @@
-# crpyto_trade_bot
-cryptocurrency future trade bot and backtest
+# crypto_trade_bot
+cryptocurrency future(Binance) trade bot and backtest
